@@ -1,7 +1,6 @@
-# ethereum-developer-quickstart
-A quickstart for beginner Ethereum Developers.
-
 # Ethereum Developer Quickstart
+
+A quickstart for beginner Ethereum Developers.
 
 ## Welcome
 There are a lot of courses and guides out there. Yet after purchasing some and trying a lot of blog posts, tutorials, etc. This is the guide I would have wanted to begin to understand the basics and build quickly in about 30 minutes. Links are included if you want to dive deeper.
