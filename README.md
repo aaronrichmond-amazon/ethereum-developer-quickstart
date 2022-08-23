@@ -57,7 +57,7 @@ Your output should look something like this:
 
 ```
 {
-  "name": "2pizzadao-quickstart",
+  "name": "eth-dev-quickstart",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -103,7 +103,7 @@ Take the defaults or edit as you like.
 See the [Hardhat Overview](https://hardhat.org/hardhat-runner/docs/getting-started#overview) and [Hardhat Network](https://hardhat.org/hardhat-network/docs/overview) documentation for more. The above commands were copied from the docs.
 
 ### 3. Programming Language and Frameworks
-For the 2 Pizza DAO, we will use JavaScript (optionally TypeScript) with React-based frameworks for the front end.
+We will use JavaScript (optionally TypeScript) with React-based frameworks for the front end.
 
 __Solidity__ (.sol) files are used for smart contracts. See documentation here: https://docs.soliditylang.org/
 
@@ -184,14 +184,8 @@ There are many blockchain wallets to choose from, but we will use [MetaMask](htt
 
 Once installed, log into your account (your wallet address). If not defaulted, connect to <samp>Localhost:8545</samp>. You should see something like this:
 
-![MetaMask Localhost:8545](images/metamask-localhost8545.png).
-
 Give yourself some ethereum from one of the local accounts. Click the "circle" image on the top right to import one of the local accounts. You should see a screen below...
 
-![MetaMask Import Account](images/metamask-importAccount.png).
-
 Now copy one of the private keys listed in the terminal list of local accounts, and click "Import".
-
-![MetaMask Import Account](images/metamask-localAccount.png).
 
 Look who's got 10,000 ETH! :)
